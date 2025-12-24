@@ -1,0 +1,1 @@
+Theory: You don't need to memorize every command; you need to know how to find the switches for them.
