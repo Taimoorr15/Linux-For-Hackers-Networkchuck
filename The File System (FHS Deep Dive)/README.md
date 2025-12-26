@@ -1,1 +1,1 @@
-Theory:Linux follows the File System Hierarchy Standard (FHS).  Understanding this is key to finding sensitive data(logs, configs, hashes).
+Theory:Linux follows the File System Hierarchy Standard (FHS).  Understanding this is key to finding sensitive data(logs, configs, hashes)

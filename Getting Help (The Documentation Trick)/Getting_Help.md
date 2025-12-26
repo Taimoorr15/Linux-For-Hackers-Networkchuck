@@ -1,6 +1,6 @@
-man [command]: The full manual.
+man [command]: The full manual
 
-Example: man nmap. Use / to search for specific words within the manual (e.g., /stealth).
+Example: man nmap. Use / to search for specific words within the manual (e.g., /stealth)
 
 apropos [keyword]: When you don't know the command name.
 

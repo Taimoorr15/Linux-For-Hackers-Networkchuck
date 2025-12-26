@@ -1,1 +1,1 @@
-Linux is a Kernel. Distros (Kali, Parrot, Ubuntu) are just flavors. As a hacker, the CLI is your weapon because it allows for automation and low-resource usage.
+Linux is a Kernel. Distros (Kali, Parrot, Ubuntu) are just flavors. As a hacker, the CLI is your weapon because it allows for automation and low-resource usage
