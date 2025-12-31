@@ -1,0 +1,1 @@
+Theory: Services (Daemons) run in the background. Systemd is the parent of all processes (PID 1).

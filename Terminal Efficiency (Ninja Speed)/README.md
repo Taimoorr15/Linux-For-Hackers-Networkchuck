@@ -1,0 +1,1 @@
+Theory: A hacker who types slow gets caught. Speed is efficiency.

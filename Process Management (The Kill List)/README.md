@@ -1,0 +1,1 @@
+Theory: Every task has a Process ID (PID). Killing a process stops its execution immediately.
